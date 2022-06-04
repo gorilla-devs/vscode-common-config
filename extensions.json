@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "aaron-bond.better-comments",
+    "bungcip.better-toml",
+    "rust-lang.rust-analyzer",
+    "astro-build.astro-vscode",
+    "vadimcn.vscode-lldb",
+    "cschlosser.doxdocgen",
+    "mintlify.document"
+  ]
+}
