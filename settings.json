@@ -14,9 +14,9 @@
     "json5",
     "jsonc"
   ],
-  "[astro]": {
-    "editor.defaultFormatter": "astro-build.astro-vscode"
-  },
+  // "[astro]": {
+  //   "editor.defaultFormatter": "astro-build.astro-vscode"
+  // },
   "html.format.endWithNewline": true,
   "javascript.preferences.importModuleSpecifier": "non-relative",
   "typescript.preferences.importModuleSpecifier": "non-relative",
