@@ -1,5 +1,5 @@
 {
-  "editor.formatOnSave": true,
+  "editor.formatOnSave": false,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true,
     "source.organizeImports": false
@@ -14,12 +14,9 @@
     "json5",
     "jsonc"
   ],
-  // "[astro]": {
-  //   "editor.defaultFormatter": "astro-build.astro-vscode"
-  // },
   "html.format.endWithNewline": true,
   "javascript.preferences.importModuleSpecifier": "non-relative",
   "typescript.preferences.importModuleSpecifier": "non-relative",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "files.eol": "\n"
+  "files.eol": "\n",
 }
